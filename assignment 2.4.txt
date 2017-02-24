@@ -1,0 +1,10 @@
+impotrtance of name node:
+
+The namenode is the commodity hardware that contains name node server
+It is a software that can be run on commodity hardware
+The system having the namenode acts as the master server 
+It Manages the file system namespace
+It Regulates client’s access to files
+It also executes file system operations such as renaming, closing, and opening files and directories
+It keeps the directory tree of all files in the file system and tracks where across the cluster the file data is kept 
+It does not store the data of these files itself
